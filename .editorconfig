@@ -1,5 +1,6 @@
 root = true
 
+[*]
 indent_size = 3
 
 [test.txt]
