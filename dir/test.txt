@@ -1,4 +1,3 @@
 tab/space test in dir
-    4 space
-	hard tab
-        8 space
+01234567890123456789
+	hard tab (size 2)
